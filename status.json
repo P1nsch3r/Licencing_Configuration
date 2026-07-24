@@ -3,7 +3,7 @@
   "global_message": "All services are currently unavailable due to system maintenance.",
   "applications": {
     "Ermis": {
-      "app_enabled": true,
+      "app_enabled": false,
       "min_version": "1.0.0",
       "message": "Ermis is currently disabled. Please, contact the developer."
     },
