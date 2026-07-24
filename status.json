@@ -1,0 +1,26 @@
+{
+  "global_killswitch": false,
+  "global_message": "All services are currently unavailable due to system maintenance.",
+  "applications": {
+    "Ermis": {
+      "app_enabled": true,
+      "min_version": "1.0.0",
+      "message": "Ermis is currently disabled. Please, contact the developer."
+    },
+    "ShadowLens": {
+      "app_enabled": true,
+      "min_version": "1.0.0",
+      "message": "ShadowLensErmis is currently disabled. Please, contact the developer."
+    },
+    "AuditFlow": {
+      "app_enabled": true,
+      "min_version": "1.0.0",
+      "message": "AuditFlow is currently disabled. Please, contact the developer."
+    },
+    "Fuel Price Tracker": {
+      "app_enabled": true,
+      "min_version": "1.0.0",
+      "message": "Fuel Price Tracker is currently disabled. Please, contact the developer."
+    }
+  }
+}
