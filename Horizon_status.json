@@ -3,11 +3,11 @@
   "global_message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί.",
   "applications": {
     "AuditFlow": {
-      "app_enabled": ,
+      "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "Ermis": {
-      "app_enabled": ,
+      "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "Fuel_Price_Tracker": {
@@ -15,7 +15,7 @@
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "ShadowLens": {
-      "app_enabled": ,
+      "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     }
   }
