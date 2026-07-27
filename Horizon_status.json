@@ -4,15 +4,15 @@
   "applications": {
     "Ermis": {
       "app_enabled": true,
-      "message": "Η άδεια χρήσης του λογισμικού Ermis έχει ανακληθεί."
+      "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "ShadowLens": {
       "app_enabled": true,
-      "message": "Η άδεια χρήσης του λογισμικού ShadowLens έχει ανακληθεί."
+      "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "AuditFlow": {
       "app_enabled": true,
-      "message": "Η άδεια χρήσης του λογισμικού Vertex έχει ανακληθεί."
+      "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     }
   }
 }
