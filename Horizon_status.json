@@ -15,7 +15,7 @@
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "ShadowLens": {
-      "app_enabled": false,
+      "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     }
   }
