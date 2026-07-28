@@ -3,7 +3,7 @@
   "global_message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί.",
   "applications": {
     "AuditFlow": {
-      "app_enabled": true,
+      "app_enabled": false,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "Ermis": {
