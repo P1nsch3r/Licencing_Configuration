@@ -7,7 +7,7 @@
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "Ermis": {
-      "app_enabled": false,
+      "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     },
     "Fuel_Price_Tracker": {
