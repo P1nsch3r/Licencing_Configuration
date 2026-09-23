@@ -21,6 +21,10 @@
     "ShadowLens": {
       "app_enabled": true,
       "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
+    },
+    "Watchdog": {
+      "app_enabled": true,
+      "message": "Η άδεια χρήσης του λογισμικού έχει ανακληθεί."
     }
   }
 }
